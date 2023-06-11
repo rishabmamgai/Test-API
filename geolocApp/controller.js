@@ -1,4 +1,4 @@
-const con = require('./config/dbConfig');
+const con = require('../config/dbConfig');
 
 
 // Home

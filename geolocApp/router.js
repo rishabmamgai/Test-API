@@ -1,4 +1,4 @@
-const app = require('./config/server');
+const app = require('../config/server');
 const { home, queryData, updateGeoloc, deleteGeoloc } = require('./controller.js');
 
 
