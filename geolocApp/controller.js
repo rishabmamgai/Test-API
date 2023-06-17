@@ -1,3 +1,4 @@
+require('./migrations');
 const con = require('../config/dbConfig');
 
 
